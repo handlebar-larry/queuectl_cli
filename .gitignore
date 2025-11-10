@@ -1,0 +1,15 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Redis configuration
+redis.conf
+
+# Logs
+*.log
+
+# Optional: system files
+.DS_Store
+Thumbs.db
